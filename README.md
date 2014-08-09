@@ -21,3 +21,11 @@ Command + ] (Mac)
 ## インデントを下げる
 
 Command + [ (Mac)
+
+## 文字の拡大
+
+Command + Shift + plus(+) (Mac)
+
+## 文字の縮小
+
+Command + minus(-) (Mac)
