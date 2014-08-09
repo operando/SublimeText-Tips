@@ -14,6 +14,10 @@ Ctrl + C (Win)
 
 Command + C (Mac)
 
+## 行全体のクローンを作る
+
+Command + Shift + D (Mac)
+
 ## インデントを上げる
 
 Command + ] (Mac)
@@ -29,3 +33,7 @@ Command + Shift + plus(+) (Mac)
 ## 文字の縮小
 
 Command + minus(-) (Mac)
+
+## 画面の分割(カラム)
+
+Command + Alt + 1~4 (Mac)
