@@ -37,3 +37,7 @@ Command + minus(-) (Mac)
 ## 画面の分割(カラム)
 
 Command + Alt + 1~4 (Mac)
+
+## ターミナルで指定したファイルをSublime Textで開く
+
+subl [file]
